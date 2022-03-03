@@ -1,2 +1,4 @@
-# Meu primeiro projeto
- primeiro repositório versionado
+# Meu primeiro projeto!
+ Primeiro repositório versionado,
+
+ repositório criado para aprender a programar.
